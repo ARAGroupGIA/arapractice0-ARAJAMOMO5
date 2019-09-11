@@ -11,6 +11,6 @@ scanf("d",&B);
 printf("show value of C");
 scanf("%d",&C);
 A=B+C;
-printf("the result of the sum is %d,A");
+printf("the result of the sum is %d",A);
 }
 
