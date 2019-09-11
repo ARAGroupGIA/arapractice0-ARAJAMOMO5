@@ -5,8 +5,12 @@
 /* Here, you must include the required libraries */
 #include <stdio.h>
 void main(){
-	/* Here, you must write the source code to show the missatge "Hello world" on screen*/
-	printf("HELLO WORLD VERSION 1");
-	printf("HELLO WORLD VERSION 2");
+int A,B,C;
+printf("show value of B");
+scanf("d",&B);
+printf("show value of C");
+scanf("%d",&C);
+A=B+C;
+printf("the result of the sum is %d,A");
 }
 
