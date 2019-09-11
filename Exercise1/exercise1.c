@@ -7,5 +7,5 @@
 void main(){
 	/* Here, you must write the source code to show the missatge "Hello world" on screen*/
 	printf("HELLO WORLD VERSION 1");
-	
+	printf("HELLO WORLD VERSION 2");
 }
